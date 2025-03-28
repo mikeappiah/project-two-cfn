@@ -1,0 +1,6 @@
+template-file-path: template.yaml
+parameters:
+  DatabasePassword: password
+  DatabaseName: projecttwodb
+  DatabaseUsername: postgres
+tags: {}
